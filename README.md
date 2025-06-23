@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/13ba7bd2-630e-4572-be7a-1bcaae150984)
+![image](https://github.com/user-attachments/assets/c48425d3-6caf-4c3d-945e-8ca48761ebd9)
 
 You can run by running this two commands:
   ```
